@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nick Sardelli
+title: hacker smacker
 email: hackasmacka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Nick's Hacker Smacker lounge where I'll be posting all my write-ups for 
+  Welcome to Nick's hacker smacker lounge where I'll be posting all my write-ups for 
   HtB and TryHackMe boxes as well as other CTF's.
 baseurl: "/hackersmacker" # the subpath of your site, e.g. /blog
 url: "https://nsardelli.github.io" # the base hostname & protocol for your site, e.g. http://example.com

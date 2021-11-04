@@ -29,9 +29,10 @@ linkedin_username: nsardelli
 github_username:  nsardelli
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# removed minima theme as site is now a regular theme.
+# theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

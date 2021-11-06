@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: hacker smacker
+title: Nick Sardelli
 email: hackasmacka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Nick's hacker smacker lounge where I'll be posting all my write-ups for 
+  Welcome to Nick's hacking lounge where I'll be posting all my write-ups for 
   HtB and TryHackMe boxes as well as other CTF's.
 baseurl: "/hackersmacker" # the subpath of your site, e.g. /blog
 url: "https://nsardelli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,7 +32,17 @@ github_username:  nsardelli
 # removed minima theme as site is now a regular theme.
 # theme: minima
 plugins:
-   - jekyll-feed
+#   - jekyll-feed
+
+# Conversion
+ markdown:    kramdown
+ highlighter: rouge
+
+# Markdown Processors
+ kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,7 +52,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+   - jekyll-feed 
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

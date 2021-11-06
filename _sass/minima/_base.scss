@@ -28,7 +28,12 @@ body {
   flex-direction: column;
 }
 
-
+/**
+ * Paragraphs
+ */
+p {
+  color: white;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -79,6 +84,7 @@ figcaption {
  */
 ul, ol {
   margin-left: $spacing-unit;
+  color: white;
 }
 
 li {
@@ -111,7 +117,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    //color: WHITE;
     text-decoration: underline;
   }
 
@@ -149,9 +155,8 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid #2bcc2b;
   border-radius: 3px;
-  background-color: #eef;
 }
 
 code {
@@ -212,7 +217,7 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    fill: #ffffff;
     padding-right: 5px;
     vertical-align: text-top;
 }
@@ -232,23 +237,28 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: lighten($text-color, 18%);
+  color: $text-color;
   border-collapse: collapse;
+  //font-weight: 600; 
   border: 1px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: #232526;//lighten($grey-color-light, 6%);
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
+    color: $grey-color-light;
+    font-family: Merriweather-Black;
+    font-weight: normal; 
+    background-color: #2bcc2b;//darken($text-color, 20%);//lighten($grey-color-light, 3%);
+    border: 1px solid $grey-color-light;//darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
     border: 1px solid $grey-color-light;
+    //font-family: Verdana;
   }
 }

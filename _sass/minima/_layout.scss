@@ -12,15 +12,16 @@
 
 .site-title {
   @include relative-font-size(1.625);
+  font-family: "Courier New";
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: WHITE;
   }
 }
 
@@ -37,7 +38,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: WHITE;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -123,7 +124,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: #FFFFFF;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -186,6 +187,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  //font-weight: bold;
 }
 
 .post-list {
@@ -199,7 +201,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: white;
 }
 
 .post-link {

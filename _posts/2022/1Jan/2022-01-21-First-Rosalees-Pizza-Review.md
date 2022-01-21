@@ -11,7 +11,7 @@ I got their special slice of the day which was a cheese slice with sausage and r
 
 Let me preface this by saying they claim to be "east coast style" pizza and I'll be judging them according to NY pizza standards. Their slogan, and I quote, is *Rosalee’s Pizzeria is an Old World East Coast Style Neighborhood Pizzeria.*
 
-![Sausage and red onions slice.](assets/pics/2022/rosalees/pizza01212022.jpg)
+![Sausage and red onions slice.](/assets/pics/2022/rosalees/pizza01212022.jpg)
 
 Let's start with the crust which I feel really carried this slice. I felt like they successfully emulated NY style crust without needing to import NY water, which according to many is the secret to NY pizza. I disagree with that sentiment, obviously, since we can clearly see a good crust here using Colorado water, and other chefs across the east coast make good pizza without NY water. I felt that the crust was baked perfectly given its golden brown color and darker "sun spots", if you will. It was crunchy, satisfying to eat and unique for the area given Colorado style pizza has a thicker crust. Therefore, the crust receives a score of **8/10.**
 
@@ -21,7 +21,7 @@ The sauce also felt underwhelming given there wasn't much of it on the pizza. Ho
 
 Now let’s get to the toppings, probably the worst performer of this slice. As you can tell, the presentation is lacking with toppings strewn about like this is Dominos. I felt there was an inadequate choice of toppings here which could have been improved by adding a secret ingredient. Perhaps fresh Italian parsley would have brought this slice to the next level. The flavor of sausage was rather good, and therefore the sausage receives a score of **6.5/10.** Overall, the toppings receive a score of **4/10** because they were disappointing.
 
-![The Knots (tm).](assets/pics/2022/rosalees/knots01212022.jpg)
+![The Knots (tm).](/assets/pics/2022/rosalees/knots01212022.jpg)
 
 Moving on to the knots. I felt they were excellently baked with a beautiful golden brown color, crunchy shell and chewy interior. The added garlic flavor and parmesan cheese were satisfying. The parsley was a smart move and added to their visual appeal. The dipping oil was flavored well and complemented the knots appropriately. Therefore, these are great knots and receive a score of **8.5/10.** I was pleased to receive six knots instead of one and I ate the rest of them that I took home while writing this review.
 

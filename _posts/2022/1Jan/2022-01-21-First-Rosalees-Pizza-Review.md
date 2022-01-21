@@ -5,7 +5,7 @@ date:   2022-01-21 8:10:50 -0600
 categories: food review
 ---
 
-## East coast style pizza right here in Colorado
+## East-coast-style pizza right here in Colorado
 
 I got their special slice of the day which was a cheese slice with sausage and red onions on top. They did not have any square slices ready at the time. I also ordered a garlic knot, but they came out with a plate of six and that caught me by surprise.
 
